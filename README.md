@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senia1&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=senia1&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senia1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
