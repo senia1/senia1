@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Senia,
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+engineer;.NET+developer;IT+specialist&color=95a7ef&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=2+years+experience;Entry+level;10+years+experience&color=95a7ef&center=true)](https://git.io/typing-svg)
 ### nice to meet you on my profile :)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senia1&show_icons=true&theme=radical)
