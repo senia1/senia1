@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Senia,
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+engineer+with+over+2+years+experience;.NET+developer&color=00FF00&center=true&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+engineer;.NET+developer&color=00FF00&center=true)](https://git.io/typing-svg)
 
 ### nice to meet you on my profile :)
 
