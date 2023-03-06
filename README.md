@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Senia, nice to meet you on my profile :)
-### 
+### Hi there 👋 I'm Senia,
+<p align = center>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+engineer;.NET+developer&color=00FF00&center=true&pause=1000)](https://git.io/typing-svg)
-
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senia1&show_icons=true&theme=radical)
 
