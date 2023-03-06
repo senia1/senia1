@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Senia, nice to meet you on my profile :)
 ### 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sofrware+engineer;.trainee/junior+.NET+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sofrware+engineer;trainee/junior+.NET+developer)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senia1&show_icons=true&theme=radical)
 
