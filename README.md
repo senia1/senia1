@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senia1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently working on my pet project <a href="https://github.com/senia1/Geography_test">*My project*</a>
+- 🌱 I’m currently working on my pet project <a href="https://github.com/senia1/Geography_test">**pet project**</a>
 
 <h3>My skills</h3>
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-official.svg" alt="trello" width="80" height="40"/> </a> 
