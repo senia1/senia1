@@ -5,7 +5,6 @@
 ### nice to meet you on my profile :)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senia1&show_icons=true&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=senia1&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senia1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
