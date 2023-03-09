@@ -17,7 +17,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> 
   <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="css" width="90" height="45"/> </a> 
   <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="45" height="45"/> </a> 
-  <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="45" height="45"/> </a> 
  
   <h3>My accounts:</h3>
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="45" height="45"/> </a>    
