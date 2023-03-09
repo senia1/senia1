@@ -15,7 +15,7 @@
 
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".net" width="45" height="45"/> </a> 
   <a href="https://microsoft.com" target="_blank" rel="noreferrer"> <img src="images/see_sharp.svg" alt="see_sharp" width="45" height="45"/> </a> 
-  <a href="https://microsoft.com" target="_blank" rel="noreferrer"> <img src="images/t-sql.svg" alt="t-sql" width="90" height="45"/> </a> 
+  <a href="https://microsoft.com" target="_blank" rel="noreferrer"> <img src="images/t-sql.svg" alt="t-sql" width="45" height="45"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> 
   <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="css" width="90" height="45"/> </a> 
   <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="45" height="45"/> </a> 
