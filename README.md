@@ -31,3 +31,4 @@
     <a href="https://www.edx.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/edx/edx-icon.svg" alt="edx" width="45" height="45"/> </a> 
     <a href="https://web.telegram.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="45" height="45"/> </a>
     <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="45" height="45"/> </a> 
+    <a href="https://sololearn.com" target="_blank" rel="noreferrer"> <img src="images/sololearn.svg" alt="sololearn" width="45" height="45"/> </a> 
