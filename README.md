@@ -25,7 +25,7 @@
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="45" height="45"/> </a>    
   <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="45" height="45"/> </a> 
    <a href="https://www.skype.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="45" height="45"/> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> </a> 
+  <a href="https://github.com/senia1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> </a> 
    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="45" height="45"/> </a> 
     <a href="https://twitter.com/home" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="45" height="45"/> </a> 
     <a href="https://www.edx.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/edx/edx-icon.svg" alt="edx" width="45" height="45"/> </a> 
