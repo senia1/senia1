@@ -21,8 +21,7 @@
   <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="css" width="90" height="45"/> </a> 
   <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="45" height="45"/> </a> 
   
-  <h3>My accounts:</h3>
-  <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="45" height="45"/> </a>    
+  <h3>My accounts:</h3>  
   <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="45" height="45"/> </a> 
    <a href="https://www.skype.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="45" height="45"/> </a> 
   <a href="https://github.com/senia1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> </a> 
