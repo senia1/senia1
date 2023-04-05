@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Senia,
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+engineer;.NET+developer;IT+specialist&color=95a7ef&center=true)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=2+years+experience;1+year+experience;10+years+experience&color=95a7ef&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=2+years+experience;0.5+year+experience;10+years+experience&color=95a7ef&center=true)](https://git.io/typing-svg)
 ### nice to meet you on my profile :)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=senia1&theme=radical)](https://git.io/streak-stats)
