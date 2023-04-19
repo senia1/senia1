@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=senia1&theme=radical)](https://git.io/streak-stats)
 
-- 🌱 I’m currently working on my <a href="https://github.com/senia1/Geography_test">**pet project**</a>
+- 🌱 I’m currently working on my <a href="https://github.com/senia1/">**pet project**</a>
 
 <h3>My skills:</h3>
 
