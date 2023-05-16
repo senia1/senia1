@@ -27,3 +27,7 @@
     <a href="https://web.telegram.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="45" height="45"/> </a>
     <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="45" height="45"/> </a> 
     <a href="https://www.sololearn.com/profile/28521533" target="_blank" rel="noreferrer"> <img src="images/sololearn.svg" alt="sololearn" width="45" height="45"/> </a> 
+
+![GitHub metrics](https://metrics.lecoq.io/senia1)  
+
+![Profile views](https://gpvc.arturio.dev/senia1)  
