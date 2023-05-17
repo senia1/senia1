@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Senia,
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+engineer;.NET+developer;IT+specialist&color=95a7ef&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+engineer;IT+specialist&color=95a7ef&center=true)](https://git.io/typing-svg)
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=2+years+experience;0.5+year+experience;10+years+experience&color=95a7ef&center=true)](https://git.io/typing-svg)-->
 ### nice to meet you on my profile :)
 
@@ -29,5 +29,3 @@
     <a href="https://www.sololearn.com/profile/28521533" target="_blank" rel="noreferrer"> <img src="images/sololearn.svg" alt="sololearn" width="45" height="45"/> </a> 
 
 ![GitHub metrics](https://metrics.lecoq.io/senia1)  
-
-![Profile views](https://gpvc.arturio.dev/senia1)  
