@@ -4,11 +4,11 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=2+years+experience;0.5+year+experience;10+years+experience&color=95a7ef&center=true)](https://git.io/typing-svg)-->
 ### nice to meet you on my profile :)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=senia1&theme=radical)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=senia1&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently working on my <a href="https://github.com/senia1/">**pet project**</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=senia1)](https://git.io/streak-stats)
 
 <h3>My skills:</h3>
 
