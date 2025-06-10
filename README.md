@@ -29,3 +29,5 @@
     <a href="https://web.telegram.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="45" height="45"/></a>
     <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="45" height="45"/></a>
     <a href="https://www.sololearn.com/profile/28521533" target="_blank" rel="noreferrer"><img src="images/sololearn.svg" alt="sololearn" width="45" height="45"/></a> 
+
+<a href="https://info.flagcounter.com/0a2m"><img src="https://s01.flagcounter.com/count2/0a2m/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_77/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
