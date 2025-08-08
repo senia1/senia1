@@ -6,8 +6,6 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=senia1&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently working on my <a href="https://github.com/senia1/">**pet project**</a>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=senia1&theme=radical)](https://git.io/streak-stats)
 
 <h3>My skills:</h3>
